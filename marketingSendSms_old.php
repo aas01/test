@@ -1,5 +1,4 @@
-#!/usr/bin/php5 -f
-<?php
+﻿<?php
 /* 
  *  Created by Lobanov Dmitriy at 02.09.2016
  */
