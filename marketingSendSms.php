@@ -1,6 +1,4 @@
-<?php 
-
-//Получение номеров из стека БД2010 и проставление статуса изъятия номеров
+﻿<?php 
 require_once("conf_gold.php");
 require_once("transp_gold.php");
 $link = mssql_connect(SRV_IP, SRV_LOGIN, SRV_PASSWORD);
